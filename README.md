@@ -3,6 +3,7 @@ GO + Docker + unit tests
 
 
 ## Running the app locally
+# testing
 
 ```bash
 $ go build
